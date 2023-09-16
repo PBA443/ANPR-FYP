@@ -1,0 +1,8 @@
+easyocr==1.7.0
+matplotlib==3.7.1
+numpy==1.23.0
+opencv-python==4.8.0.76
+pandas==2.0.2
+tensorflow-intel==2.11.0
+torch==2.0.1+cu117
+ultralytics==8.0.153
